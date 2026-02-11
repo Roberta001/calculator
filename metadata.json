@@ -1,0 +1,5 @@
+{
+  "name": "Bilibili Video Score Calculator",
+  "description": "A precise video scoring tool implementing complex formulas for calculating points based on views, likes, coins, and more, including all intermediate correction factors.",
+  "requestFramePermissions": []
+}
