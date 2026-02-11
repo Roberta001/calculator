@@ -20,6 +20,13 @@ export interface InputState {
   shares: number;
   type: VideoType;
   rankingType: RankingType;
+  useCustomFormulas: boolean;
+  customFormulas: {
+    fixA: string;
+    fixB: string;
+    fixC: string;
+    fixD: string;
+  };
 }
 
 export interface CalculationResults {
